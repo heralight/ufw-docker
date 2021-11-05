@@ -209,7 +209,7 @@ This script also supports Docker Swarm mode.
 Download `ufw-docker` script
 
     sudo wget -O /usr/local/bin/ufw-docker \
-      https://github.com/chaifeng/ufw-docker/raw/master/ufw-docker
+      https://github.com/heralight/ufw-docker/raw/master/ufw-docker
     sudo chmod +x /usr/local/bin/ufw-docker
 
 Then using the following command to modify the `after.rules` file of `ufw`
